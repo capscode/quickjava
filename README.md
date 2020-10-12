@@ -7564,3 +7564,6 @@ lookForDifferentThingsUsingScanner("true false 12 3 abc true 154");
 ### Expressions
 
 Where are objects created? Where are strings created?
+
+NOTE: this is not our creation. We have just made it available for you all for learninng purpose.
+Credit: https://github.com/in28minutes/java-cheat-sheet
